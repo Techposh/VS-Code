@@ -31,10 +31,7 @@ from random import randint
 
 
 myList = [1,2,3,4,5,6,7,8,9,10]
-myList[9]
 
-
-# In[21]:
 
 
 myList[4] = 50
